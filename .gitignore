@@ -30,7 +30,12 @@ hs_err_pid*
 *.classpath
 
 
+.idea/*
 */.idea/*
 *.iml
 */out/*
 
+
+.idea/*
+target/*
+dependency-reduced-pom.xml

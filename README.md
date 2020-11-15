@@ -11,7 +11,7 @@
     单击：ServerStart.bat
 3. Bash 启动：
     单击：ServerStart.sh
-   注：Mac 需要在当前目录下执行 `chmod 755 ServerStart.sh`命令后，才能单机执行 ServerStart.sh 脚本。
+    注：Mac 需要在当前目录下执行 `chmod 755 ServerStart.sh`命令后，才能单机执行 ServerStart.sh 脚本。
 
 
 ###### 配置：

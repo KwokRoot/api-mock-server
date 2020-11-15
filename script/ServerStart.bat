@@ -1,0 +1,1 @@
+java -jar api-mock-server-1.0-SNAPSHOT.jar
